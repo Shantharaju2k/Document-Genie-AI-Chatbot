@@ -48,8 +48,8 @@
    Create a `.env` file in the project root and add the following lines, replacing placeholders with your actual API keys:
 
    ```plaintext
-   GROQ_API_KEY=your_groq_api_key
-   GOOGLE_API_KEY=your_google_api_key
+   GROQ_API_KEY="enter_your_groq_api_key"
+   GOOGLE_API_KEY="enter_your_google_api_key"
    ```
 
 ## Usage
