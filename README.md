@@ -79,11 +79,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Snapshots
 
 ![1  REG ](https://github.com/user-attachments/assets/5b1a36b7-1e14-4c51-a62a-ef657b7675bd)
+```bash
 ![2  reg](https://github.com/user-attachments/assets/c0f52b1d-7ba9-4fb4-9c74-1b3bc2156f89)
 ![3  reg](https://github.com/user-attachments/assets/1c89c631-8e47-429a-8c29-4179929d95c5)
 ![3 1 reg](https://github.com/user-attachments/assets/20215b0b-f62c-4c61-93bb-2cd2f706b750)
 ![4  log](https://github.com/user-attachments/assets/ad290d08-92d9-483a-941b-f52de968cfd3)
 ![4 1 log](https://github.com/user-attachments/assets/78190fc5-9057-4162-8673-b47ceb0b26ed)
+
+   ```
 ![5  log](https://github.com/user-attachments/assets/58147e0e-6bbf-49e9-acd1-cc77516ec9b7)
 ![6  home](https://github.com/user-attachments/assets/2db3b787-a9a9-4089-abb4-20356af4070c)
 ![7  uplod](https://github.com/user-attachments/assets/9fdc398f-d30b-44bb-b3c0-7b304cac1fbc)
