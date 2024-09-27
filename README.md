@@ -26,7 +26,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/document-genie.git
+   git clone https://github.com/Shantharaju-pojects/Document_Genie-AI_chatbot.git
    cd document-genie
    ```
 
