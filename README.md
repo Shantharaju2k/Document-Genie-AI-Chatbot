@@ -77,3 +77,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Google Generative AI](https://cloud.google.com/generative-ai)
 
 ```
+![1  REG ](https://github.com/user-attachments/assets/b2ef5908-4984-4282-8b80-0d7392b2e7a6)
+![1  REG ](https://github.com/user-attachments/assets/754339cc-ad36-4b7a-8dff-7b58d51bb189)
+
