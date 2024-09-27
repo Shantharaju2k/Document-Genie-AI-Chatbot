@@ -76,7 +76,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Langchain](https://langchain.readthedocs.io/en/latest/)
 - [Google Generative AI](https://cloud.google.com/generative-ai)
 
-## snapshots
+## Snapshots
 
 ![1  REG ](https://github.com/user-attachments/assets/5b1a36b7-1e14-4c51-a62a-ef657b7675bd)
 ![2  reg](https://github.com/user-attachments/assets/c0f52b1d-7ba9-4fb4-9c74-1b3bc2156f89)
