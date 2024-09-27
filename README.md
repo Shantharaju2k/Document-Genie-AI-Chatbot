@@ -66,16 +66,6 @@
 
 4. Upload documents and ask questions using the chat interface or voice input.
 
-## Contributing
-
-Contributions are welcome! If you have suggestions or improvements, feel free to create a pull request.
-
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a pull request.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
@@ -87,11 +77,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Google Generative AI](https://cloud.google.com/generative-ai)
 
 ```
-
-### Customization Tips
-
-- Replace `yourusername/document-genie.git` with the actual URL of your GitHub repository.
-- Fill in the actual API keys for your environment variables in the instructions.
-- Adjust any other details to match your project's specific needs.
-
-Feel free to modify this `README.md` as necessary! Let me know if you need further help.
