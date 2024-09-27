@@ -1,6 +1,3 @@
-Here’s a sample `README.md` file for your Streamlit application. You can customize it further based on your preferences and the specific details of your project.
-
-```markdown
 # Document Genie
 
 ## Overview
