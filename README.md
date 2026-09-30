@@ -19,7 +19,7 @@
 - **Langchain**: A framework for building applications powered by language models.
 - **Google Generative AI**: For document embedding and contextual responses.
 - **SpeechRecognition**: For converting speech to text input.
-- **pydub**: For audio manipulation.
+- **pydub**: For audio manipulation.djjfh
 
 ## Installation
 
